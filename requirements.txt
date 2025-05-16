@@ -1,16 +1,16 @@
-python-binance==1.0.29  # Updated to latest (1.0.29 as of PyPI)
-sqlalchemy==1.4.53  # Updated to latest 1.4.x release for stability (2.x is a major upgrade)
-schedule==1.2.2  # Updated to latest (1.2.2 as of PyPI)
-apprise==1.9.0  # Updated to latest (1.9.0 as of PyPI)
-Flask==2.3.3  # Updated to latest 2.3.x release
-gunicorn==23.0.0  # Updated to latest (23.0.0 as of PyPI)
-flask-cors==5.0.0  # Updated to latest (5.0.0 as of PyPI)
-flask-socketio==5.4.1  # Updated to latest (5.4.1 as of PyPI)
-eventlet==0.36.1  # Updated to latest (0.36.1 as of PyPI)
-python-socketio[client]==5.15.1  # Updated to latest (5.15.1 as of PyPI)
-cachetools==5.5.0  # Updated to latest (5.5.0 as of PyPI)
-sqlitedict==2.1.0  # Updated to latest (2.1.0 as of PyPI)
-unicorn-binance-websocket-api==2.6.3  # Updated to latest (2.6.3 as of PyPI)
-unicorn-fy==0.14.1  # Updated to latest (0.14.1 as of PyPI)
-itsdangerous==2.2.1  # Updated to latest (2.2.1 as of PyPI)
-Werkzeug==3.0.4  # Updated to latest compatible with Flask 2.3.3
+python-binance
+sqlalchemy
+schedule
+apprise
+Flask
+gunicorn
+flask-cors
+flask-socketio
+eventlet
+python-socketio[client]
+cachetools
+sqlitedict
+unicorn-binance-websocket-api
+unicorn-fy
+itsdangerous
+Werkzeug
